@@ -1,4 +1,4 @@
-﻿# Computer Vision Assignment ΓÇö Units 3, 4 & 5
+﻿# Computer Vision Assignment Units 3, 4 & 5
 
 A practical Computer Vision project implemented using Python and OpenCV, covering image restoration, image segmentation, feature extraction, feature matching, object detection, and video motion analysis.
 
