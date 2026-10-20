@@ -1,0 +1,4 @@
+Method,Purpose,Average Detected Pixels (%),Output
+Frame Differencing,Detects changes between consecutive frames,1.569,Binary difference masks
+MOG2 Background Subtraction,Separates foreground from learned background,7.781,Foreground masks
+Lucas-Kanade Optical Flow,Tracks movement of selected image features,,Motion vectors and tracked feature points

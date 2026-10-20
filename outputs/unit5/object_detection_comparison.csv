@@ -1,0 +1,3 @@
+Method,Detection Task,Observed Result,Confidence
+Haar Cascade,Frontal face detection,1 face(s) detected,Not provided by this detector
+YOLOv8n,General object detection,person (0.942),0.942 (94.2%)

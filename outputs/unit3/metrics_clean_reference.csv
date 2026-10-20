@@ -1,0 +1,7 @@
+Image / Method,PSNR (dB),SSIM
+Gaussian Noise,22.938,0.2145
+Gaussian Noise + Gaussian Filter,32.456,0.7392
+Gaussian Noise + Median Filter,32.159,0.7485
+Salt-and-Pepper Noise,17.094,0.2769
+Salt-and-Pepper + Median Filter,36.749,0.9516
+Salt-and-Pepper + Gaussian Filter,27.174,0.5397

@@ -1,0 +1,5 @@
+Noise Type,Restoration Method,PSNR (dB),SSIM
+Gaussian Noise,Gaussian Filter,32.902,0.803453
+Gaussian Noise,Median Filter,33.0934,0.797119
+Salt-and-Pepper Noise,Median Filter,36.8628,0.952598
+Salt-and-Pepper Noise,Gaussian Filter,28.8433,0.630722
